@@ -1,0 +1,9 @@
+pdfplumber
+pandas
+openpyxl
+python-dateutil
+regex
+pytesseract
+pdf2image
+pillow
+streamlit
